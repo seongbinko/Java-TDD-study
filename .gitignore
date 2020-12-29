@@ -2,4 +2,4 @@
 .mvn
 target
 HELP.md
-java-test.iml
+*.iml
